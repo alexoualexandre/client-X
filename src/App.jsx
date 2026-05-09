@@ -24,7 +24,7 @@ export default function App() {
   return (
     <>
       <header>
-        <h1 style={{ color: "white" }}>ta mere</h1>
+        <h1 style={{ color: "white" }}>ton grand pere</h1>
 
         <nav>
           <ul className="ul-nav">
